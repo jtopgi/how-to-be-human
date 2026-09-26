@@ -1,0 +1,32 @@
+name: Report an error
+description: Point out a factual mistake, a wrong source, or a typo in How to Be Human.
+title: "[Error] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for helping keep this book accurate. Please include enough detail for the passage to be found.
+  - type: input
+    id: location
+    attributes:
+      label: Where is it?
+      description: Chapter or section, and the page number if you're reading the PDF.
+      placeholder: "Chapter 14, Put people first, page 95"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Quote the sentence if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: Suggested correction
+  - type: input
+    id: source
+    attributes:
+      label: Source (optional)
+      description: A link or reference that supports the correction.
