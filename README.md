@@ -5,7 +5,7 @@ Compiled and edited by Jeevan Topgi
 
 **Read it free:** https://jtopgi.github.io/how-to-be-human/
 
-[Download the EPUB](How-to-Be-Human.epub) (462 KB, for Kindle and e-readers) · [Download the PDF](How-to-Be-Human.pdf) (3.9 MB, 6×9 book layout)
+[Download the EPUB](How-to-Be-Human.epub) (447 KB, for Kindle and e-readers) · [Download the PDF](How-to-Be-Human.pdf) (5.5 MB, 6×9 book layout)
 
 No one is born with a manual for being human. This free book keeps only the advice that science, philosophy, the world's religions, societies across history, and people near the end of life agree on: 36 guidelines, each with its own chapter, and 44 rituals to practice them. Every factual claim is sourced.
 
